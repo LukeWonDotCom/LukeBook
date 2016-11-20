@@ -1,0 +1,17 @@
+<link rel="stylesheet" href="oml.css">
+<link rel="icon" href="lbLogo.gif">
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
+<link rel="stylesheet" href="http://lukewon.com/w3css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="script.js"></script>
+<?
+	function msgdisplay() {
+	
+		if (isset($_GET['msg'])) {
+		echo '<span class="can tooltip" id="msg" onclick="remove(\'msg\')"><h4>' . $_GET['msg'] . '</h4><span class="tooltiptext">Click to remove</span></span>';
+		
+		
+		}
+	}
+	
+?>

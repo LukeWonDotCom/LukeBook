@@ -1,0 +1,1 @@
+<span style="align:bottom"><br><span style="color:blue">&copy</span> <span style="color:lime">LukeBook</span> is property of <span style="color:white">Luke Won</span></span>
