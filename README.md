@@ -2,19 +2,16 @@
 This is the source code for [LukeBook](www.lukewon.com/lukebook) made by [Luke Won](@lukecywon)  
 **Default Admin Username**: ``root``  
 **Default Admin Password**: ``root``  
-
-# Steps to install  
-Don't put LukeBook OTG on any other website for download!  
-
-**Requirements**  
+  
+## **Requirements**  
 
 1. Mysql Server  
 2. Phpmyadmin (_Must be this_)  
 3. Php server  
 4. **The Php server must have short open tags enabled**  
+  
 
-
-**Installation**   
+## **Installation**   
 * Unzip/move the files into a folder in your webserver  
 * Go to **phpmyadmim** and import ``lukebook.sql`` to your desired database  
 * Open the folder and edit db.php  
