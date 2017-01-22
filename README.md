@@ -17,3 +17,6 @@ This is the source code for [LukeBook](www.lukewon.com/lukebook) made by [Luke W
 * Open the folder and edit db.php  
 * Replace 'Your-hostname', 'Your-Username', 'Your-Password' and 'Your-DB' with your real Database info (Only Mysql database will work)  
 * Go to ``'_your-webserver/where-ever-you-put-the-files/index.php_'`` and login  
+
+## License  
+[View License](https://github.com/LukeWonDotCom/LukeBook/blob/master/LICENSE)  
