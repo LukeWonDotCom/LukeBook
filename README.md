@@ -12,6 +12,7 @@ This is the source code for [LukeBook](www.lukewon.com/lukebook) made by [Luke W
   
 
 ## **Installation**   
+* Download the zip from [here](https://github.com/LukeWonDotCom/LukeBook/archive/master.zip)
 * Unzip/move the files into a folder in your webserver  
 * Go to **phpmyadmim** and import ``lukebook.sql`` to your desired database  
 * Open the folder and edit db.php  
