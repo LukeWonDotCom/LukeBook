@@ -1,6 +1,0 @@
-{
-  "name": "Lukebook",
-  "tagline": "",
-  "body": "### LukeBook  \r\n_LukeBook_ is an online PhoneBook that uses ``PHP``.  \r\nYou can use it to make your own online PhoneBook.  \r\n  \r\n### Installation  \r\nPlease refer to The [README.md](https://github.com/LukeWonDotCom/LukeBook/blob/master/README.md) for installation.  \r\n  \r\n### Developers    \r\n* [``Luke Won``](@lukecywon)  \r\n*  ``Melvin Won``  \r\n  \r\n### Other LukeWon.com Projects  \r\n* [``LukeBank``](www.lukewon.com/lukebank) Non-OTG  \r\n* [``LukeBank``](https://github.com/LukeWonDotCom/LukeBank/blob/master/README.md) OTG (Not Finished)\r\n  \r\n### Support or Contact  \r\nAny Errors or bugs?  \r\nReport them at the LukeWon.com [Contact Page](www.lukewon.com/#contact)  ",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
