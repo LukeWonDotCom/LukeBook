@@ -1,4 +1,6 @@
 # LukeBook  
+
+[![Join the chat at https://gitter.im/LukeBook/Lobby](https://badges.gitter.im/LukeBook/Lobby.svg)](https://gitter.im/LukeBook/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This is the source code for [LukeBook](www.lukewon.com/lukebook) made by [Luke Won](@lukecywon)  
 **Default Admin Username**: ``root``  
 **Default Admin Password**: ``root``  
