@@ -43,20 +43,6 @@ include ('session.php');
 	
 	
 	<?php
-	//include('db.php');
-	//user_conn();
-	/*
-	include ('db.php');
-	// Create connection
-	$conn = db_connect();
-	// Check connection
-	if (!$conn) {
-		die("Connection failed: " . mysqli_connect_error());
-	}
-
-	$login = $_SESSION["user"];
-	$sql = "SELECT type, uid FROM user_table WHERE login = '$login'";
-	$result = mysqli_query($conn, $sql);
 
 	
 		$row = mysqli_fetch_assoc($result);*/
