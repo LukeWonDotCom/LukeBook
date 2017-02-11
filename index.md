@@ -15,5 +15,4 @@ Please refer to The [README.md](https://github.com/LukeWonDotCom/LukeBook/blob/m
   
 ### Support or Contact  
 Any Errors or bugs?  
-Report them at the LukeWon.com [Contact Page](www.lukewon.com/#contact)  
-Or email @lukewondotcom at [me@lukewon.com](mailto:me@lukewon.com)
+Report them [here](https://github.com/LukeWonDotCom/LukeBook/issues)  
