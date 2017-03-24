@@ -17,7 +17,14 @@ This is the source code for [LukeBook](www.lukewon.com/lukebook) made by [Luke W
 * Log on to your server using ssh
 * Go to your desired installation folder
 * Run ```composer create-project lukecywon/lukebook```
-## **Installation (Zip)**   
+
+## **Installation (Git)**  
+* Log on to your server using ssh
+* Go to your web server location (ex: /var/www)
+* Run ```git clone https://github.com/LukeWonDotCom/LukeBook.git```
+* Rename the ```LukeBook``` folder to your desired name (ex: html)
+
+## **Installation (Zip)** ``Hardest way``  
 * Download the zip from [here](https://github.com/LukeWonDotCom/LukeBook/archive/master.zip)
 * Unzip/move the files into a folder in your webserver  
 * Go to **phpmyadmim** and import ``lukebook.sql`` to your desired database  
