@@ -1,0 +1,7 @@
+{
+    "name": "LukeWon.com/lukebank-otg",
+    "description": "LukeBank OTG is a online phonebook that is self hosted.",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+    }
+}
