@@ -16,7 +16,7 @@ This is the source code for [LukeBook](www.lukewon.com/lukebook) made by [Luke W
 ## **Installation (Composer)** ``Recomended``  
 * Log on to your server using ssh
 * Go to your desired installation folder
-* Run ``bash composer create-project flarum/flarum``
+* Run ```bash composer create-project lukecywon/lukebook```
 ## **Installation (Zip)**   
 * Download the zip from [here](https://github.com/LukeWonDotCom/LukeBook/archive/master.zip)
 * Unzip/move the files into a folder in your webserver  
