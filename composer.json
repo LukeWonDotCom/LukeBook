@@ -1,7 +1,19 @@
 {
-    "name": "LukeWon.com/lukebank-otg",
-    "description": "LukeBank OTG is a online phonebook that is self hosted.",
+    "name": "lukecywon/lukebank",
+    "type": "app",
+    "description": "Self hosted online phonebook",
+    "keywords": ["phonebook","self-hosted"],
+    "homepage": "https://github.com/LukeWonDotCom/LukeBook",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luke Won",
+            "email": "me@lukewon.com",
+            "homepage": "https://lukewon.com",
+            "role": "Developer"
+        }
+    ],
     "require": {
-        "php": "^5.3.3 || ^7.0",
+        "php": ">=5.3.0"
     }
 }
