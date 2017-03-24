@@ -8,14 +8,16 @@ This is the source code for [LukeBook](www.lukewon.com/lukebook) made by [Luke W
 **Default Admin Password**: ``root``  
   
 ## **Requirements**  
-
 1. Mysql Server  
 2. Phpmyadmin (_Must be this_)  
 3. Php server  
 4. **The Php server must have short open tags enabled**  
   
-
-## **Installation**   
+## **Installation (Composer)** ``Recomended``  
+* Log on to your server using ssh
+* Go to your desired installation folder
+* Run ``bash composer create-project flarum/flarum``
+## **Installation (Zip)**   
 * Download the zip from [here](https://github.com/LukeWonDotCom/LukeBook/archive/master.zip)
 * Unzip/move the files into a folder in your webserver  
 * Go to **phpmyadmim** and import ``lukebook.sql`` to your desired database  
