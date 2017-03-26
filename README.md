@@ -1,5 +1,6 @@
 # LukeBook  
-
+> Announcement: The LukeBook-OTG project is moved to [LukeWon.com Git](https://git.lukewon.com)  
+  
 [![Join the chat at https://gitter.im/LukeBook/Lobby](https://badges.gitter.im/LukeBook/Lobby.svg)](https://gitter.im/LukeBook/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
 [![Github All Releases](https://img.shields.io/github/downloads/LukeWonDotCom/LukeBook/total.svg)](https://github.com/LukeWonDotCom/LukeBook/archive/master.zip)  
 
